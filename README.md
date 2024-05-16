@@ -7,7 +7,6 @@ The Flutter Calculator App is a basic calculator application built using Flutter
 ## Features
 Clean and intuitive user interface
 Support for basic arithmetic operations: addition, subtraction, multiplication, division
-Responsive layout that adapts to different screen sizes
 Simple and easy-to-use design suitable for users of all ages
 
 ## Getting Started
