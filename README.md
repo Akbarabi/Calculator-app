@@ -9,8 +9,6 @@ Clean and intuitive user interface
 Support for basic arithmetic operations: addition, subtraction, multiplication, division
 Responsive layout that adapts to different screen sizes
 Simple and easy-to-use design suitable for users of all ages
-Screenshots
-[Include screenshots or gifs demonstrating the app's functionality]
 
 ## Getting Started
 To run the app locally on your machine, follow these steps:
@@ -18,6 +16,7 @@ To run the app locally on your machine, follow these steps:
 Clone this repository to your local machine using git clone.
 Navigate to the project directory and install dependencies using flutter pub get.
 Run the app on an emulator or physical device using flutter run.
-Technologies Used
+
+## Technologies Used
 Flutter: A UI toolkit for building natively compiled applications for mobile, web, and desktop from a single codebase.
 Dart: The programming language used for developing Flutter applications.
