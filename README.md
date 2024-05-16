@@ -1,16 +1,23 @@
-# calculator
+# Flutter Calculator App
+This repository contains the source code for a simple calculator mobile application developed using Flutter framework.
 
-A new Flutter project.
+## Overview
+The Flutter Calculator App is a basic calculator application built using Flutter, a popular cross-platform mobile development framework. The app provides users with a simple and intuitive interface for performing basic arithmetic operations such as addition, subtraction, multiplication, and division.
+
+## Features
+Clean and intuitive user interface
+Support for basic arithmetic operations: addition, subtraction, multiplication, division
+Responsive layout that adapts to different screen sizes
+Simple and easy-to-use design suitable for users of all ages
+Screenshots
+[Include screenshots or gifs demonstrating the app's functionality]
 
 ## Getting Started
+To run the app locally on your machine, follow these steps:
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Clone this repository to your local machine using git clone.
+Navigate to the project directory and install dependencies using flutter pub get.
+Run the app on an emulator or physical device using flutter run.
+Technologies Used
+Flutter: A UI toolkit for building natively compiled applications for mobile, web, and desktop from a single codebase.
+Dart: The programming language used for developing Flutter applications.
